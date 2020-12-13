@@ -1,4 +1,10 @@
-### Hi there 👋
+Hola mi nombre es Facundo 👋
+
+Mi aplicación 100% Creada por Mi :https://github.com/facundolobo/SimuladorDePlanificacionDeProceso 
+Es una aplicacion de planificacion de procesos donde encontramos los algoritmos FiFo, Prioridad, SRTF, SJF, etc.
+
+![alt text](https://github.com/facundolobo/SimuladorDePlanificacionDeProceso/blob/main/app/src/main/ic_launcher-web.png)
+
 
 <!--
 **facundolobo/facundolobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
