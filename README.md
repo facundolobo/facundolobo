@@ -1,7 +1,7 @@
 Hola mi nombre es Facundo 👋
 
-Mi aplicación 100% Creada por Mi :https://github.com/facundolobo/SimuladorDePlanificacionDeProceso 
-Es una aplicacion de planificacion de procesos donde encontramos los algoritmos FiFo, Prioridad, SRTF, SJF, etc.
+Quiero compartir por Mi app: https://github.com/facundolobo/SimuladorDePlanificacionDeProceso 
+Es una aplicacion de "Planificacion de procesos" donde encontramos los algoritmos FIFO, por Prioridad, SRTF, SJF, etc.
 
 ![alt text](https://github.com/facundolobo/SimuladorDePlanificacionDeProceso/blob/main/app/src/main/ic_launcher-web.png)
 
