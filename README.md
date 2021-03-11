@@ -15,5 +15,5 @@ Habilidades: JS / REACT (cursando) / JS / HTML / CSS
 - ⚡ Dato curioso: Comparto una App de "Simulación de procesos" 
 - ![](https://github.com/facundolobo/CosasParaPortada/blob/main/imagenApp-Simulador-Proceso.png)
 
-- [link al proyecto](https://github.com/facundolobo/SimuladorDePlanificacionDeProceso
+- [link al proyecto](https://github.com/facundolobo/SimuladorDePlanificacionDeProceso)
 
