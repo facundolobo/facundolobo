@@ -6,7 +6,7 @@ Actualmente me encuentro terminando un curso de React y aprendiendo nuevos idiom
 
 Habilidades: JS / REACT (cursando) / JS / HTML / CSS
 
-- 🌱 Estoy aprendiendo React, ingles, japones 
+- 🌱 Estoy aprendiendo React, ingles 
 - 📫 Cómo contactarme: facundolobo2@gmail.com 
 - ⚡ Dato curioso: Aprendiendo ingles actualmente de [Bussu](https://www.busuu.com)
 
