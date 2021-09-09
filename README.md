@@ -4,7 +4,7 @@
 
 Actualmente me encuentro terminando un curso de React y aprendiendo nuevos idiomas
 
-Habilidades: JS / REACT (cursando) / JS / HTML / CSS
+Habilidades: JS / ReactJS / JS / HTML / CSS / NodeJs
 
 - 🌱 Estoy aprendiendo React, ingles 
 - 📫 Cómo contactarme: facundolobo2@gmail.com 
@@ -12,9 +12,6 @@ Habilidades: JS / REACT (cursando) / JS / HTML / CSS
 
     
     
-- ⚡ Dato curioso: Comparto una App para Smartphone Android de "Simulación de procesos" 
-    - ![](https://github.com/facundolobo/CosasParaPortada/blob/main/imagenApp-Simulador-Proceso.png)
 
-    - [link del App](https://drive.google.com/uc?id=1HwldA-Ga29ptFNHiKP1RSWMLMypdtbXx&export=download)
 
 
