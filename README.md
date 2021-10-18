@@ -4,9 +4,7 @@ Mi comienzo en el mundo dela programación comenzó en la secundaria, desde ese 
 mi
 Objetivo
 es usar los conocimientos obtenidos demi carrera para aplicarlos lo máximo posible en mi trabajo.
-- 🌱 Estoy aprendiendo React, ingles 
-- 📫 Cómo contactarme: facundolobo2@gmail.com 
-- ⚡ Dato curioso: Aprendiendo ingles actualmente de [Bussu](https://www.busuu.com)
+
 
     
     
