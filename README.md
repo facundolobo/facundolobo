@@ -3,7 +3,7 @@
 Mi comienzo en el mundo dela programación comenzó en la secundaria, desde ese momento siempre que puedoquiero aprender nuevas cosas,
 mi
 Objetivo
-es usar los conocimientos obtenidos demi carrera para aplicarlos lo máximo posible en mi trabajo.
+es usar los conocimientos obtenidos de mi carrera para aplicarlos lo máximo posible en mi trabajo.
 
 
     
