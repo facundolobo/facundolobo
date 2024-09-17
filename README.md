@@ -1,10 +1,8 @@
 ### Hola 👋, Mi nombre es: Facundo Lobo
-#### Soy un estudiante universitario de Ingeniería en Informática
-Mi comienzo en el mundo dela programación comenzó en la secundaria, desde ese momento siempre que puedoquiero aprender nuevas cosas,
-mi
-Objetivo
-es usar los conocimientos obtenidos de mi carrera para aplicarlos lo máximo posible en mi trabajo.
-
+#### Soy Desarrollador Backend y un estudiante universitario de Ingeniería en Informática
+Actualmente Trabajo en Censys S.A.: Soluciones tecnológicas Financiera, como Desarrollador Backend para Banca Individuo, Empresa y 
+Backoffice, también la creación de un proyecto de Automatización para la Banca individuo. Muy contento de haber tenido esas experiencias 
+en lo que es programación y finanzas. Soy Estudiante Avanzando de Ingeniería en Informática.
 
     
     
